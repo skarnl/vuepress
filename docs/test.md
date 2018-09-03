@@ -5,4 +5,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Dit dus **enzo. En **_cursief ook nog _eens ^^
 
-![null](/docs/.vuepress/dist/profile-pic-2018.png)
+![no alt](/docs/.vuepress/dist/profile-pic-2018.png)
