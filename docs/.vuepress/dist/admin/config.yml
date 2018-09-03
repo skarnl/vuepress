@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: skarnl/vuepress-netlify-cms
+  repo: skarnl/vuepress
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"
